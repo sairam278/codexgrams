@@ -1,0 +1,72 @@
+{
+  ".vscode/extensions.json": {
+    "mtime": 1791806394.8880925,
+    "ast_hash": "b2354ba0225f5689d13651ec0fac0de0",
+    "semantic_hash": "b2354ba0225f5689d13651ec0fac0de0"
+  },
+  ".vscode/settings.json": {
+    "mtime": 1791806394.894612,
+    "ast_hash": "6b9302c1f72c315e90233c7539c48c9f",
+    "semantic_hash": "6b9302c1f72c315e90233c7539c48c9f"
+  },
+  "app.json": {
+    "mtime": 1791806395.008814,
+    "ast_hash": "ddf74c1ca0a3c65ec89a8bb10ebdbd40",
+    "semantic_hash": "ddf74c1ca0a3c65ec89a8bb10ebdbd40"
+  },
+  "eslint.config.js": {
+    "mtime": 1791877975.0891974,
+    "ast_hash": "b713dd66aa3ad59ed5098d7b9f8dc202",
+    "semantic_hash": "b713dd66aa3ad59ed5098d7b9f8dc202"
+  },
+  "package.json": {
+    "mtime": 1791877918.964849,
+    "ast_hash": "c7ec54c58cabde9a58601de0811dc703",
+    "semantic_hash": "c7ec54c58cabde9a58601de0811dc703"
+  },
+  "src/app/_layout.tsx": {
+    "mtime": 1791878819.758777,
+    "ast_hash": "fe7ef48ea1d328b0fc66d2a934bc62c2",
+    "semantic_hash": "fe7ef48ea1d328b0fc66d2a934bc62c2"
+  },
+  "src/app/index.tsx": {
+    "mtime": 1791878819.7562356,
+    "ast_hash": "b86495929762ff05a11c52e98bc20b68",
+    "semantic_hash": "b86495929762ff05a11c52e98bc20b68"
+  },
+  "tsconfig.json": {
+    "mtime": 1791806394.8956132,
+    "ast_hash": "6794be22dd9dd00003515895d3b4ff06",
+    "semantic_hash": "6794be22dd9dd00003515895d3b4ff06"
+  },
+  "AGENTS.md": {
+    "mtime": 1791880515.410145,
+    "ast_hash": "112a598da8d9bfc25cb0c9eff93d5d3d",
+    "semantic_hash": "112a598da8d9bfc25cb0c9eff93d5d3d"
+  },
+  "README.md": {
+    "mtime": 1791806394.8981192,
+    "ast_hash": "db37e01139db6cec80a338779325d5ae",
+    "semantic_hash": "db37e01139db6cec80a338779325d5ae"
+  },
+  "notes/Decisions.md": {
+    "mtime": 1791880369.7587562,
+    "ast_hash": "025dd57a6aa2cc3b59d0cbc7da37cdf5",
+    "semantic_hash": "025dd57a6aa2cc3b59d0cbc7da37cdf5"
+  },
+  "notes/Home.md": {
+    "mtime": 1791880369.7556975,
+    "ast_hash": "58b0382a631414cc084d838b13c1f48c",
+    "semantic_hash": "58b0382a631414cc084d838b13c1f48c"
+  },
+  "notes/Ideas.md": {
+    "mtime": 1791880369.761343,
+    "ast_hash": "9c22a50e616c0f3a3bb509966b3e6fdc",
+    "semantic_hash": "9c22a50e616c0f3a3bb509966b3e6fdc"
+  },
+  "notes/Tasks.md": {
+    "mtime": 1791880369.7575567,
+    "ast_hash": "239972f964586727412d5f5cb00e1cd3",
+    "semantic_hash": "239972f964586727412d5f5cb00e1cd3"
+  }
+}

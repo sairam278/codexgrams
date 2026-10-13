@@ -41,3 +41,13 @@ example
 # generated native folders
 /ios
 /android
+
+# Obsidian local state
+/notes/.obsidian/workspace*.json
+/notes/.obsidian/cache/
+/notes/.trash/
+
+# Graphify machine-local paths and extraction caches
+/graphify-out/.graphify_*
+/graphify-out/.cache/
+/graphify-out/.needs_update

@@ -1,0 +1,10 @@
+# Index project source and documentation; exclude assets and generated output.
+assets/
+package-lock.json
+graphify-out/
+notes/Graph/
+notes/.obsidian/
+.codex/
+.claude/
+.expo/
+node_modules/
